@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">voicecommandcalculator</string>
+    <string name="speech_prompt">Please speak your command...</string>
+</resources>
